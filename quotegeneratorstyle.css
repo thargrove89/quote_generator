@@ -80,6 +80,14 @@ h5 {
 	
 	
   }
+	
+  .image{
+	  
+	 height:100%;
+	  width:100%;
+	
+	
+	}
   .container-fluid{
     width: 100%;
     padding: 10px 10px; 
